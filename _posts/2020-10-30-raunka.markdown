@@ -1,0 +1,13 @@
+---
+layout: inner
+position: right
+title: "Raunak Donation Portal"
+date: 2020-11-20 00:00:00
+categories: development design
+tags: NodeJS Express MongoDB
+featured_image: "/img/posts/04_raunak.png"
+project_link: "https://raunak-portal.herokuapp.com/"
+button_icon: "external-link"
+button_text: "Visit Project"
+lead_text: "A donation portal for Raunak Fundraiser."
+---

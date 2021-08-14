@@ -1,0 +1,45 @@
+title: "Hello. I'm Nikhil Gautam."
+email: "nikhilgautam992@gmail.com"
+description: "I'm a software developer from New Delhi who loves to create useful things."
+baseurl: ""
+url: "https://nik-gautam.github.io/portfolio"
+twitter_username: "_nik_gautam_"
+github_username: "nik-gautam"
+linkedin_username: "nikhil-gautam-a96688177"
+resume_link: "https://drive.google.com/file/d/1XxhqXNpObOE8YyS5qZ25ZlqOK7GkrL8L/view?usp=sharing"
+
+markdown: kramdown
+plugins:
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  debug: false
+  collection: "posts"
+  per_page: 10
+  permalink: "/page/:num/"
+  title: ":title - page :num"
+  limit: 0
+  sort_field: "date"
+  sort_reverse: true
+  category: "posts"
+  tag: ""
+  locale: ""
+  trail:
+    before: 2
+    after: 2
+  extension: html
+  indexpage: "index"
+
+footer_text: "© 2021 Nikhil Gautam"
+admin_name: "Nikhil Gautam"
+enable_contact: true
+
+enable_nav: true
+nav_item:
+  - { url: "/", text: "Home" }
+  - { url: "/about", text: "About" }
+  - {
+      url: "https://drive.google.com/file/d/1XxhqXNpObOE8YyS5qZ25ZlqOK7GkrL8L/view?usp=sharing",
+      text: "Resume",
+    }

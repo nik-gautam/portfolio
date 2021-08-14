@@ -1,0 +1,13 @@
+---
+layout: inner
+position: right
+title: "Safe-T"
+date: 2021-02-10 00:00:00
+categories: android api design
+tags: NodeJS ExpressJS MongoDB
+featured_image: "/img/posts/02_safe-t.png"
+project_link: "https://github.com/nik-gautam/sos_api"
+button_icon: "github"
+button_text: "Visit Repo"
+lead_text: "A community-based real-time women safety solution"
+---
