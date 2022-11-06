@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: "Octave URL Shortener"
 date: 2020-11-20 00:00:00
 categories: development api design
