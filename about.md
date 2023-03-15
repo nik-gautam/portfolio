@@ -22,7 +22,7 @@ My name is Nikhil Gautam. I am final year CS undergrad from New Delhi, India who
   - Implemented Representative State Transfer (REST) APIs in Model-Controller architecture for the assigned project using ExpressJS and NodeJS in JavaScript language along with proper Error Handling and Testing.
   - Participated in development timelines and workboards in JIRA for efficient software development.
   - Implemented a robust web application using ReactJs frontend library alongside Redux library for global state management throughout the application.
-  - Designed an efficient database structure with MongoDB, ExpressJS and NodeJS; resulting in quicker API responses.
+  - Designed an efficient database structure with MongoDB , ExpressJS and NodeJS; resulting in quicker API responses.
   - Designed the frontend for the main landing page for the company using ReactJS and Material UI
   - [Letter of Experience](https://drive.google.com/file/d/1KPMWNrIsXKqE0hfkrpjVfnm2p67OUoD5/view?usp=sharing)
 
