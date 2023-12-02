@@ -6,7 +6,7 @@ permalink: /about/
 
 # Hii..
 
-My name is Nikhil Gautam. I am a software wizard from New Delhi, India who loves to make things for the web, smartphones and blockchain. I enjoy working with others on interesting projects and learning new things at every chance I get. I love to experiment around with opensource project, read books about spacecrafts and play Beatles songs on my guitar.
+My name is Nikhil Gautam. I am a software wizard from New Delhi, India who loves to make things for the web, smartphones and blockchain. I enjoy working with others on interesting projects and learning new things at every chance I get. I love to experiment around with open-source projects, read books about spacecrafts and play Beatles songs on my guitar.
 
 <br />
 <br />
