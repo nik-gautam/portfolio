@@ -25,6 +25,8 @@ My name is Nikhil Gautam. I am a software wizard from New Delhi, India who loves
 	- Designed a POC for a distributed system with high-consistency and availability using Kafka and distributed cache.
 	- Wrote python and shell scripts to speed up the team workflow and automated often repeated tasks.
 	- Collaborated with a team of 5 developers while following Scrum and Agile methodologies.
+
+<br />
   
 - #### HUBX Pvt. Ltd., New Delhi `NodeJS ExpressJS ReactJS JavaScript MongoDB API`
 
